@@ -1,0 +1,21 @@
+
+
+git init
+touch nithin.py
+
+git add nithin.py
+
+git status
+
+git commit -m "First Commit"
+
+Create  a github account
+
+Repositories Tab 
+
+git remote add origin "SSL Link"
+
+git pull origin master
+
+git push origin master
+
